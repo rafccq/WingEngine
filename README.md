@@ -1,5 +1,3 @@
-![](https://github.com/rafarc/WingEngine/blob/master/doc/wing-logo.png)
-
 WingEngine is a small, simple to use, and efficient data-oriented 3d game engine for Wii, developed in C++. This wiki page presents its features and some internal technical details.
 The engine is built using the Wii Homebrew development tools: devkitpro-ppc and libogc. WingEngine is a **work-in-progress**, some of its features are just a basic implementation meant to be expanded in next versions, as the engine gets incrementally constructed.
 
